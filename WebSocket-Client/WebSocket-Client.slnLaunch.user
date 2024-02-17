@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "WebSocket-Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
